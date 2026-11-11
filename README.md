@@ -1,2 +1,2 @@
 ### Tekstiä
-Kappale, johon kirjoitan tekstiä. :DDD
+Eka Kappale, johon kirjoitan tekstiä.
