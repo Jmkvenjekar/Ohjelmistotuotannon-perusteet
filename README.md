@@ -1,3 +1,2 @@
 ### Tekstiä
-Kappale, johon kirjoitan tekstiä.
-A-haara lisätty.
+Eka Kappale, johon kirjoitan tekstiä.
